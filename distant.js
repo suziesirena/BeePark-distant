@@ -1,1 +1,1 @@
-alert('eeeee');
+console.log('Distant script executed');
